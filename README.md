@@ -1,6 +1,6 @@
 # Rogue Pickings - Responsive Site
 
-### View the [live project here.](https://kirstendarling.github.io/rogue-pickings-responsive/)
+### View the [live project here.](https://kirstendarling.github.io/Rogue-Pickings-Responsive-Site/)
 
 ### Screenshot
 
